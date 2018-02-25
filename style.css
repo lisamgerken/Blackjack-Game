@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
+body {
+	font-family: 'Amatic SC', cursive;
+	font-size: 24px;
+}
+
+button {
+	color: red;
+	width: 100px;
+}
+
+div {
+	width: 300px;
+    height: auto;
+    margin: 0 auto;
+}
